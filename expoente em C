@@ -1,0 +1,19 @@
+Crie um programa para calcular a potência da base 2, enviando uma informação da base (2) semper uma constante , o expoente informado no telcado pelo usuário.
+
+#include <stdio.h>
+#include <math.h>
+
+int main()
+{
+    int base = 2;
+    int expoente = 0;
+    
+    printf("Digite um número: );
+    scanf("%d , &expoente);
+    
+    int operacao = o;
+    operacao = pow(base,expoente)
+    
+    printf("Resultado: %d" , operacao)
+}
+
