@@ -1,0 +1,30 @@
+LINGUAGEM C
+
+#include <stdio.h>
+
+int main()
+{
+    int numero1 = 0;
+    int numero2 = 0;
+    
+    printf("Digite o primeiro número: ")
+    scanf("%d" , &numero1);
+    printf("Digite o segun número: ")
+    scanf("%d" , &numero2);
+    
+    int soma = 0;
+    soma = numero1 + numero 2;
+    
+    printf("O valor é de %d" , soma);
+}
+
+
+
+LINGUAGEM PYTHON
+
+numero1 = int(imput("Digite um número: )
+numero2 = int(imput("Digite outro número: )
+
+soma = numero1 + numero2
+
+print("A soma é: " , soma )
